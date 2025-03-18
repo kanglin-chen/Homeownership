@@ -3,12 +3,6 @@
 Notes
 =============================================================================================================
 
-About Homeownership_1970_2020_National_Level_Data.xlsx and Homeownership_1970_2020_County_Level_Data.xlsx
-
-These two files contain processed housing data combined for the years 1970–2020, excluding counties with missing data during this period.
-
--------------------------------------------------------------------------------------------------------------
-
 The "Downloaded data" file contains the originally downloaded housing data from IPUMS NHGIS and the U.S. Census Bureau.
 
 The "Processed data" file includes processed data combined for the years 1970–2020, excluding counties with missing data. It covers a total of 3,115 counties for county-level analysis.
