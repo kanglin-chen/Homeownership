@@ -10,4 +10,4 @@ US homeownership rates have hovered around 65% for decades, raising questions ab
 ## File Structures
 Data: downloaded data from IPUMS NHGIS and the US Census Bureau and processed data by the research team.
 <br> Src: scripts
-<br> Maps
+<br> Maps: includes maps of the number of owner-occupied housing units and homeownership rates, as well as their decadal changes from 1970 to 2020.
