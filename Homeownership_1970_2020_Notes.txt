@@ -9,17 +9,14 @@ These two files contain processed housing data combined for the years 1970–202
 
 -------------------------------------------------------------------------------------------------------------
 
-About downloaded data
+The "Downloaded data" file contains the originally downloaded housing data from IPUMS NHGIS and the U.S. Census Bureau.
 
-National- and county-level data are available from the IPUMS National Historical Geographic Information System (NHGIS) at https://data2.nhgis.org/main , under the topics "Total Housing Units" and "Tenure and Mortgage Status." The 2020 county-level housing data are available from the US Census at data.census.gov, and the authors used the 2020 US Census Bureau's DP1 ("Profile of General Population and Housing Characteristics") table.
+The "Processed data" file includes processed data combined for the years 1970–2020, excluding counties with missing data. It covers a total of 3,115 counties for county-level analysis.
 
+The "Src" file contains R scripts for generating charts (Figures 1–4).
 
-For county-level data, we used Time Series Tables for the years 1970–2010 from IPUMS NHGIS. For the 1970 and 1980 data, we used Nominal Integration, as time-standardized tables are not available, with a 2008 GIS basis to minimize changes relative to the 2010 GIS basis used for data between 1990 and 2010. For data between 1990 and 2010, we used tables with Geographic Integration standardized to 2010, based on a 2010 GIS framework. Additionally, we obtained 2020 housing data from the US Census with a 2020 GIS basis, as a Time Series Table on housing tenure status is not available on NHGIS. For national-level data, we used Time Series Tables for the years 1980–2010 from IPUMS NHGIS. We summed county-level data for 1970, as there was no national-level housing data available, and we used a Source Table for 2020 since a Time Series Table for 2020 is not available.
+The "Maps_N_%" file includes maps showing the number of owner-occupied housing units and homeownership rates.
 
--------------------------------------------------------------------------------------------------------------
-
-About Homeownership_1970_2020.ppkx
-
-This is the packaged project from ArcGIS Pro. It includes a spatial visualization of county-level housing data, as found in the Homeownership_1970_2020_County_Level_Data.xlsx file.
+The "Maps_Changes" file includes maps depicting changes over the years in the number of owner-occupied housing units and homeownership rates.
 
 -------------------------------------------------------------------------------------------------------------
