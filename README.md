@@ -1,6 +1,6 @@
 # Geographies and Changes in US Homeownership from 1970 to 2020
 
-  This repository documents the data and scripts for the paper "Geographies and Changes in US Homeownership from 1970 to 2020", submitted to *Sustainable Cities and Society*.
+  This repository documents the data and scripts for the paper "Geographies and Changes in US Homeownership from 1970 to 2020", submitted to *Cities*.
 <br> **Authors:** Kanglin Chen*, Bora Ju, Rockli Kim, S.V. Subramanian
 <br> **Contact:** kanglinchen@fas.harvard.edu
 
